@@ -58,9 +58,7 @@ python test.py
 - **Hyperparameters**: Adjust model size, number of layers/heads, block size, etc. in `train.py` and `model.py`.
 - **Data**: Replace `hp_full_script_clean.txt` with your own text for a different dataset.
 
-## Credits
-- Inspired by [Attention is All You Need](https://arxiv.org/abs/1706.03762) and [GPT](https://openai.com/research/publications/language-unsupervised).
-- Implementation by [Your Name].
+
 
 ## License
 This project is for educational purposes only. Not affiliated with J.K. Rowling or Warner Bros. 
